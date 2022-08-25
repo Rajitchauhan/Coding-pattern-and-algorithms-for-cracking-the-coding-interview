@@ -1,0 +1,12 @@
+1 - https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/
+2 - https://www.geeksforgeeks.org/placements-gq/
+3 - http://www.write.geeksforgeeks.org/ # for contribute  in geeksforgeeks
+4 - https://www.procoding.org/datastructures/ # for Data structure
+5 - https://github.com/s0409/DATA-STRUCTURES-AND-ALGORITHMS/
+
+
+6 - https://github.com/EddieHubCommunity/awesome-github-profiles # for github profiles
+7 - https://rahuldkjain.github.io/gh-profile-readme-generator/ # for github decoration
+8 - https://kalkicode.com/ For dsa visualation
+9 - https://antoniosarosi.github.io/Linked-List-Visualization/
+10 - https://opendsa-server.cs.vt.edu/OpenDSA/AV/Sorting/insertionsortAV.html

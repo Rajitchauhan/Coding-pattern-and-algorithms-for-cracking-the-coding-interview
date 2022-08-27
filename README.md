@@ -17,6 +17,6 @@
 
 8 - array : cracking the coding interview
 
-#### I use Cracking the coding interview Book and course Grokking cracking the coding interview
+#### I use Cracking the coding interview Book and course Educative.io - Grokking the Coding Interview - Patterns for Coding Questions
 
 #### i am still exploring and learning CP

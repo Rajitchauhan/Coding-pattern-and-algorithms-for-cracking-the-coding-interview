@@ -5,7 +5,7 @@
 
 2 - Binary search : aditya varma
 
-3 - sliding windows :  aditya varma
+3 - sliding windows :  aditya varma & grokking the coding interview
 
 4 - stack : aditya varma
 
